@@ -165,7 +165,7 @@ body{
     display: none;
 }
 
-.r1{
+/* .r1{
     position: absolute;
     top: 620px;
     left: 350px;
@@ -191,7 +191,7 @@ body{
 .realizado{
     font-family: var(--textSerif);
     font-size: 12px;
-}
+} */
 
 /* visual tableta */
 
